@@ -1,10 +1,10 @@
 ### Profile 👋
 세종대학교 경영학과 16학번 이주희입니다.
-
-
-소속: Sejong Univ. - Business Management & Computer Engineering
+아래와 같이 활동중이고, 어렵지만 열심히 공부해보려고 합니다!ㅎㅎ
 
 #### 활동 중
+- 소속: Sejong Univ. - Business Management & Computer Engineering
+
 - Bitamin 5기(빅데이터 동아리)
 - SAI 3기 운영진 (Sejong AI 동아리)
 - ML & DL study
@@ -12,9 +12,10 @@
 
 ### Interest & Studying
 - Big data analysis
-- Data Engineering (Power BI, Data Modeling)
+- Data Engineering
 - ML & DL with Mathematics
 
+<!--
 ### Project
 - 2020 경기도 코로나 예측 & 정책제언
 - 서울시 행정동별 상권분석
