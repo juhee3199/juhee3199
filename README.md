@@ -3,7 +3,7 @@
 아래와 같이 활동중이고, 어렵지만 열심히 공부해보려고 합니다!ㅎㅎ
 
 #### 활동 중
-- 재학 : Sejong Univ. - Business Management & Computer Engineering
+- 재학 중: Sejong Univ. - Business Management & Computer Engineering
 
 - Bitamin 5기(빅데이터 동아리)
 - SAI 3기 운영진 (Sejong AI 동아리)
