@@ -5,7 +5,7 @@
 #### 활동 중
 - 재학 중: Sejong Univ. - Business Management & Computer Engineering
 
-- Bitamin 5기(빅데이터 동아리)
+- BITAmin 5기(빅데이터  동아리)
 - SAI 3기 운영진 (Sejong AI 동아리)
 - ML & DL study
 - Data Engineering study
