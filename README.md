@@ -12,8 +12,9 @@
 
 ### Interest & Studying
 - Big data analysis
-- Data Engineering
+- AI
 - ML & DL with Mathematics
+- Data Engineering
 
 <!--
 ### Project
