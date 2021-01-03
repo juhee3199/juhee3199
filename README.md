@@ -13,17 +13,15 @@
 ### Interest & Studying 🌱
 - Big data analysis
 - AI
-- ML & DL with Mathematics
-- Data Engineering
 
-<!--
 ### Project
 - 2020 경기도 코로나 예측 & 정책제언
+- AI를 통한 가짜 뉴스 분류 
 - 서울시 행정동별 상권분석
 - 서울시 자치구별 상권변화 분류
 - 퍼스널컬러 진단 with teachable machine
 
-
+<!--
 
 <!--
 **juhee3199/juhee3199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
