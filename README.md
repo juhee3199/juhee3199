@@ -10,10 +10,6 @@
 - ML & DL study
 - Data Engineering study
 
-### Interest & Studying 🌱
-- Big data analysis
-- AI
-
 ### Project ✨
 - 2020 경기도 코로나 예측 & 정책제언
 - Fake news detection  AI를 통한 가짜 뉴스 분류 
