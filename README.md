@@ -2,17 +2,19 @@
 
 아래와 같이 활동중이고, 어렵지만 열심히 공부해보려고 합니다!ㅎㅎ
 
+blog - https://juris.tistory.com/
+
 #### 활동 중 😄
 - 재학 중: Sejong Univ. - Business Management & Computer Engineering
 
 - BITAmin 5기(빅데이터  동아리)
-- SAI 3기 운영진 (Sejong AI 동아리)
+- SAI 3, 4기 운영진 (Sejong AI 동아리)
 - ML & DL study
-- Data Engineering study
+
 
 ### Project ✨
 - 2020 경기도 코로나 예측 & 정책제언
-- Fake news detection  AI를 통한 가짜 뉴스 분류 
+- Fake news detection  (AI를 통한 가짜 뉴스 분류 )
 - 사용자 행동 패턴 예측 (2020 DACON CUP)  
 - GAN 생성모델을 활용한 게임리소스 생성기
 - 서울시 행정동별 상권분석
